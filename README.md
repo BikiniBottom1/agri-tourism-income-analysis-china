@@ -1,0 +1,2 @@
+# agri-tourism-income-analysis-china
+Stata and Python code for analyzing the economic impact of agri-tourism on farmer income in China.
